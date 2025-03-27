@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7efba55e-421c-4d4b-881d-fd0a4f7d7c50" alt="OpenVista Logo" width="370"/>
+  <img src="https://github.com/user-attachments/assets/7efba55e-421c-4d4b-881d-fd0a4f7d7c50" alt="OpenVista Logo" width="490"/>
 </p>
 
 
